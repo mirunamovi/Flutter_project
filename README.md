@@ -1,16 +1,21 @@
-# flutter_demos
+Description:
+1. React app: Only used by admins on edit essential credentials and details
+2. Flutter app: Users can login, signin and interact with the elements from the meniu, buttons and features
 
-A new Flutter project.
+Technologies used:
+1. React app: React js, Firebase 9, React router, javascript, html, css
+2. Flutter app: Dart, Firebase
 
-## Getting Started
+How to:
+1. React app (Web):
+-install node.js
+-open project with visual studio code.
+-open terminal (ctrl+`)
+-write: npm start
+-Enjoy
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Fluter app (Android)
+-install Android Studio
+-install Flutter SDK
+-connect a device or an emulator to view the App-Enjoy
+-Enjoy
